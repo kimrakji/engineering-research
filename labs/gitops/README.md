@@ -1,4 +1,4 @@
-# lab-gitops
+# labs/gitops
 
 GitOps의 기본 개념과 동작 방식을 실습하며 이해하기 위한 실험실.
 
